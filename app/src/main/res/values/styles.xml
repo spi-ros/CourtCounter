@@ -29,18 +29,7 @@
         <item name="android:textSize">@dimen/txt_size_56</item>
     </style>
 
-    <style name="MiniDisplaysA">
-        <item name="android:layout_width">wrap_content</item>
-        <item name="android:layout_height">wrap_content</item>
-        <item name="android:layout_centerVertical">true</item>
-        <item name="android:fontFamily">sans-serif-light</item>
-        <item name="android:paddingRight">@dimen/padding_16</item>
-        <item name="android:paddingLeft">@dimen/padding_16</item>
-        <item name="android:textColor">@color/colorBlack</item>
-        <item name="android:textSize">@dimen/txt_size_20</item>
-    </style>
-
-    <style name="MiniDisplaysB">
+    <style name="MiniDisplays">
         <item name="android:layout_width">wrap_content</item>
         <item name="android:layout_height">wrap_content</item>
         <item name="android:layout_centerVertical">true</item>

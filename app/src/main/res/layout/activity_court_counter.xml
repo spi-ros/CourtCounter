@@ -33,7 +33,7 @@
                     <TextView
                         android:id="@+id/team_a_score"
                         style="@style/TeamScore"
-                        android:text="@string/fouls"/>
+                        android:text="@string/_0"/>
 
                 </LinearLayout>
 
@@ -74,14 +74,14 @@
 
                 <TextView
                     android:id="@+id/team_a_3"
-                    style="@style/MiniDisplaysA"
+                    style="@style/MiniDisplays"
                     android:layout_toEndOf="@id/point3_button_a"
                     android:layout_toRightOf="@id/point3_button_a"
                     android:text="@string/_0" />
 
                 <TextView
                     android:id="@+id/team_b_3"
-                    style="@style/MiniDisplaysB"
+                    style="@style/MiniDisplays"
                     android:layout_toLeftOf="@id/point3_button_b"
                     android:layout_toStartOf="@id/point3_button_b"
                     android:text="@string/_0" />
@@ -114,14 +114,14 @@
 
                 <TextView
                     android:id="@+id/team_a_2"
-                    style="@style/MiniDisplaysA"
+                    style="@style/MiniDisplays"
                     android:layout_toEndOf="@id/point2_button_a"
                     android:layout_toRightOf="@id/point2_button_a"
                     android:text="@string/_0" />
 
                 <TextView
                     android:id="@+id/team_b_2"
-                    style="@style/MiniDisplaysB"
+                    style="@style/MiniDisplays"
                     android:layout_toLeftOf="@id/point2_button_b"
                     android:layout_toStartOf="@id/point2_button_b"
                     android:text="@string/_0" />
@@ -154,14 +154,14 @@
 
                 <TextView
                     android:id="@+id/team_a_1"
-                    style="@style/MiniDisplaysA"
+                    style="@style/MiniDisplays"
                     android:layout_toEndOf="@id/point1_button_a"
                     android:layout_toRightOf="@id/point1_button_a"
                     android:text="@string/_0" />
 
                 <TextView
                     android:id="@+id/team_b_1"
-                    style="@style/MiniDisplaysB"
+                    style="@style/MiniDisplays"
                     android:layout_toLeftOf="@id/point1_button_b"
                     android:layout_toStartOf="@id/point1_button_b"
                     android:text="@string/_0" />
@@ -194,14 +194,14 @@
 
                 <TextView
                     android:id="@+id/team_a_assist"
-                    style="@style/MiniDisplaysA"
+                    style="@style/MiniDisplays"
                     android:layout_toEndOf="@id/assist_button_a"
                     android:layout_toRightOf="@id/assist_button_a"
                     android:text="@string/_0" />
 
                 <TextView
                     android:id="@+id/team_b_assist"
-                    style="@style/MiniDisplaysB"
+                    style="@style/MiniDisplays"
                     android:layout_toLeftOf="@id/assist_button_b"
                     android:layout_toStartOf="@id/assist_button_b"
                     android:text="@string/_0" />
@@ -234,14 +234,14 @@
 
                 <TextView
                     android:id="@+id/team_a_rebound"
-                    style="@style/MiniDisplaysA"
+                    style="@style/MiniDisplays"
                     android:layout_toEndOf="@id/rebound_button_a"
                     android:layout_toRightOf="@id/rebound_button_a"
                     android:text="@string/_0" />
 
                 <TextView
                     android:id="@+id/team_b_rebound"
-                    style="@style/MiniDisplaysB"
+                    style="@style/MiniDisplays"
                     android:layout_toLeftOf="@id/rebound_button_b"
                     android:layout_toStartOf="@id/rebound_button_b"
                     android:text="@string/_0"/>
@@ -273,14 +273,14 @@
 
                 <TextView
                     android:id="@+id/team_a_foul"
-                    style="@style/MiniDisplaysA"
+                    style="@style/MiniDisplays"
                     android:layout_toEndOf="@id/fouls_button_a"
                     android:layout_toRightOf="@id/fouls_button_a"
                     android:text="@string/_0" />
 
                 <TextView
                     android:id="@+id/team_b_foul"
-                    style="@style/MiniDisplaysB"
+                    style="@style/MiniDisplays"
                     android:layout_toLeftOf="@id/fouls_button_b"
                     android:layout_toStartOf="@id/fouls_button_b"
                     android:text="@string/_0" />
