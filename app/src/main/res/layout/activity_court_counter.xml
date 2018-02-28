@@ -33,7 +33,7 @@
                     <TextView
                         android:id="@+id/team_a_score"
                         style="@style/TeamScore"
-                        android:text="@string/_0"/>
+                        android:text="@string/fouls"/>
 
                 </LinearLayout>
 
